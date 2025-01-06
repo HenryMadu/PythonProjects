@@ -25,11 +25,11 @@ c=3
 d=4
 x=5
 y=6
-Grades=[a,b,c,d,x,y] """variable grades"""
+Grades=[a,b,c,d,x,y] #variable grades
 
 print(Grades)
 
-Grades=['a','b','c','d','x','y'] """strings grades"""
+Grades=['a','b','c','d','x','y'] #strings grades
 print(Grades)
 
 fruits=['apple', 'banana','orange','grape']
